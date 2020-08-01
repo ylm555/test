@@ -1,2 +1,6 @@
 aaaaaaaaa
+<<<<<<< HEAD
 sssss
+=======
+uuuuuu
+>>>>>>> a442e6008025ae2ac4038a32649362f45438afed
